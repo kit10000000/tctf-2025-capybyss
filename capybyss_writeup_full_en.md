@@ -847,7 +847,7 @@ if __name__ == "__main__":
 
 ```
 
-### Запуск скрипта
+### Script launch
 ```
 python3 flag_checker/solution_final.py  'flag_checker/censored_checker_5436028.elf'
 Stored Build ID (from file): eeb1c4e54c7adc376da8365448d43331de23fb18
